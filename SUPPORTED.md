@@ -1,6 +1,4 @@
-# Security Policy
-
-## Supported Versions
+# Supported Versions
 
 Supported versions (list from official website)
 
